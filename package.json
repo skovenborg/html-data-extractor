@@ -1,0 +1,30 @@
+{
+  "name": "html-data-extractor",
+  "version": "0.0.0",
+  "description": "A parsing program to extract data out of html. Useful to fetch data out of a lot of similar html-files.",
+  "main": "data-extractor.js",
+  "dependencies": {
+    "htmlparser2": "~3.8.2",
+    "minimist": "~1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/skovenborg/html-data-extractor.git"
+  },
+  "keywords": [
+    "html",
+    "parser",
+    "xml",
+    "data",
+    "extract"
+  ],
+  "author": "Ulrik Skovenborg <skovenborg@gmail.com>",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/skovenborg/html-data-extractor/issues"
+  }
+}
